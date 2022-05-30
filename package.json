@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Test",
   "scripts": {
-    "start": "yarn"
+    "start": "yarn "
   },
   "author": "test",
   "license": "ISC",
